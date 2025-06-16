@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: Joey  
+- Certification: Front End Web Dev. 
 
 ## Instructions
 Please replace the placeholders with your details:
